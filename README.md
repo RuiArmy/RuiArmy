@@ -1,5 +1,6 @@
-![RuiArmy](https://avatars.githubusercontent.com/u/17469070?v=4)
-
+<div style="text-align: center;">
+  <img src="https://avatars.githubusercontent.com/u/17469070?v=4" alt="RuiArmy">
+</div>
 <!--
 **RuiArmy/RuiArmy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
