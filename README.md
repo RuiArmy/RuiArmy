@@ -1,4 +1,4 @@
-### Hi there 👋
+![RuiArmy]([https://example.com/images/example.jpg](https://avatars.githubusercontent.com/u/17469070?v=4))
 
 <!--
 **RuiArmy/RuiArmy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
