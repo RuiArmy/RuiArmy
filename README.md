@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://avatars.githubusercontent.com/u/17469070?v=4" width="30%">
+  <img src="https://github.com/me-shaon/GLWTPL/raw/master/good-luck.gif">
 </div>
 <!--
 **RuiArmy/RuiArmy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
