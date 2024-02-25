@@ -1,3 +1,3 @@
 <div align="center">
-  <img src="./imgs/hack.gif">
+  <img src="./img/hacker.gif">
 </div>
